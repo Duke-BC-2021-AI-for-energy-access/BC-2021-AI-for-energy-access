@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="fixed team links">
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/africa-electricity.jpeg" afterDir="false" />
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated masthead image">
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/team/Aya.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/team/Caleb.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/team/Jaden.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +35,7 @@
       <recent name="$PROJECT_DIR$/docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/assets/img/team" />
       <recent name="$PROJECT_DIR$/docs/assets/img" />
     </key>
   </component>
@@ -44,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649039417127</updated>
-      <workItem from="1649039419197" duration="7083000" />
+      <workItem from="1649039419197" duration="8110000" />
     </task>
     <task id="LOCAL-00001" summary="enno test">
       <created>1649040373370</created>
@@ -144,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649055222369</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="updated masthead image">
+      <created>1649055866844</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1649055866844</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +186,7 @@
     <MESSAGE value="updated title" />
     <MESSAGE value="github link" />
     <MESSAGE value="fixed team links" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed team links" />
+    <MESSAGE value="updated masthead image" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated masthead image" />
   </component>
 </project>
