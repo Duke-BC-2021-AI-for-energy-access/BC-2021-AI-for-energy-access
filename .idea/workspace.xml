@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated team page">
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="file name fix">
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/team/Maddie.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649039417127</updated>
-      <workItem from="1649039419197" duration="10314000" />
+      <workItem from="1649039419197" duration="10798000" />
     </task>
     <task id="LOCAL-00001" summary="enno test">
       <created>1649040373370</created>
@@ -185,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649092148107</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="file name fix">
+      <created>1649092261551</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1649092261551</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,6 +232,7 @@
     <MESSAGE value="added alena, frankie information" />
     <MESSAGE value="animation test" />
     <MESSAGE value="updated team page" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated team page" />
+    <MESSAGE value="file name fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="file name fix" />
   </component>
 </project>
