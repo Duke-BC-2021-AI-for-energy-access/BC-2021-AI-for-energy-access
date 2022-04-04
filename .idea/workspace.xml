@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="add ben image">
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/team/Alena.JPG" afterDir="false" />
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added alena, frankie information">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649039417127</updated>
-      <workItem from="1649039419197" duration="9190000" />
+      <workItem from="1649039419197" duration="9773000" />
     </task>
     <task id="LOCAL-00001" summary="enno test">
       <created>1649040373370</created>
@@ -166,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649090618742</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="added alena, frankie information">
+      <created>1649091112763</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1649091112763</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +208,7 @@
     <MESSAGE value="updated masthead image" />
     <MESSAGE value="added caleb, aya, jaden images" />
     <MESSAGE value="add ben image" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ben image" />
+    <MESSAGE value="added alena, frankie information" />
+    <option name="LAST_COMMIT_MESSAGE" value="added alena, frankie information" />
   </component>
 </project>
