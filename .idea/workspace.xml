@@ -1,53 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added old index html">
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/future_work/Few Shot Learning.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/future_work/energyinfrastructure.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/future_work/yolov4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/key_takeaways/takeaways_graph.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/key_takeaways/takeaways_table.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/Overall Domain Map.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/Pairwise Cycle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/Ratio Test Experimental Design.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/backgrounds.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/dataset cross domain process.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/dataset within domain process.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/experimental design setup (old).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/experimental design setup.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/gan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/gp_gan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/grid.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/process.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/size_distribution.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/synthetic image examples.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/yolov3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/motivation/Global Access to Electricity.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/motivation/WIND TURBINE DETECTION WITH SYNTHETIC OVERHEAD IMAGERY (FINAL).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/motivation/apply deep learning model to overhead imagery.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/motivation/domain_adaptation_updated.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/motivation/object detection explanation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/motivation/proposed_solution.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/new-header.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/results/EM_graph.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/results/EM_table.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/results/NE_graph.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/results/NE_table.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/results/metrics.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/results/overall_graph.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/results/overall_table.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/results/pr_curves.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/results/test batch gt.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/results/test batch pred.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/results/variance.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/team/Frankie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/team/Frankie_Portrait.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/team/Jordan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/team/Kyle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/team/Wayne.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/team/alex.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/team/caroline.jpeg" afterDir="false" />
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added old assets">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649039417127</updated>
-      <workItem from="1649039419197" duration="3441000" />
+      <workItem from="1649039419197" duration="3720000" />
     </task>
     <task id="LOCAL-00001" summary="enno test">
       <created>1649040373370</created>
@@ -128,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649042562476</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added old assets">
+      <created>1649043057416</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1649043057416</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +116,7 @@
     <MESSAGE value="fix auto refresh" />
     <MESSAGE value="fix auto refresh continued" />
     <MESSAGE value="added old index html" />
-    <option name="LAST_COMMIT_MESSAGE" value="added old index html" />
+    <MESSAGE value="added old assets" />
+    <option name="LAST_COMMIT_MESSAGE" value="added old assets" />
   </component>
 </project>
