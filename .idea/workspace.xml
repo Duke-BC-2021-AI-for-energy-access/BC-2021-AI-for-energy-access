@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added solar and transmission image">
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/motivation/applying deep learning to overhead imagery.png" afterDir="false" />
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="fixed DL image">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/motivation/applying deep learning to overhead imagery test.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649039417127</updated>
-      <workItem from="1649039419197" duration="14027000" />
+      <workItem from="1649039419197" duration="14579000" />
     </task>
     <task id="LOCAL-00001" summary="enno test">
       <created>1649040373370</created>
@@ -263,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649194242684</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="fixed DL image">
+      <created>1649194373897</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1649194373897</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -281,7 +290,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added old assets" />
     <MESSAGE value="testing other template" />
     <MESSAGE value="testing other template- assets" />
     <MESSAGE value="revert to old html/css" />
@@ -306,6 +314,7 @@
     <MESSAGE value="updated previous work text" />
     <MESSAGE value="fixed image link" />
     <MESSAGE value="added solar and transmission image" />
-    <option name="LAST_COMMIT_MESSAGE" value="added solar and transmission image" />
+    <MESSAGE value="fixed DL image" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed DL image" />
   </component>
 </project>
