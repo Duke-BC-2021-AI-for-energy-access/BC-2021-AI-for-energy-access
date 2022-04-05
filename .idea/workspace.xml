@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added dl model image">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated previous work text">
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649039417127</updated>
-      <workItem from="1649039419197" duration="13569000" />
+      <workItem from="1649039419197" duration="13652000" />
     </task>
     <task id="LOCAL-00001" summary="enno test">
       <created>1649040373370</created>
@@ -243,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649193672308</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="updated previous work text">
+      <created>1649193935337</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1649193935337</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,7 +267,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix auto refresh" />
     <MESSAGE value="fix auto refresh continued" />
     <MESSAGE value="added old index html" />
     <MESSAGE value="added old assets" />
@@ -286,6 +291,7 @@
     <MESSAGE value="timeline test" />
     <MESSAGE value="timeline test previous work" />
     <MESSAGE value="added dl model image" />
-    <option name="LAST_COMMIT_MESSAGE" value="added dl model image" />
+    <MESSAGE value="updated previous work text" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated previous work text" />
   </component>
 </project>
