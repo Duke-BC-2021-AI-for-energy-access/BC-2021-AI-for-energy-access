@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="remove final element of timeline">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added majors">
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/team/Madeleine.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +32,8 @@
       <recent name="$PROJECT_DIR$/docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/assets/img/motivation" />
       <recent name="$PROJECT_DIR$/docs/assets/img/team" />
+      <recent name="$PROJECT_DIR$/docs/assets/img/motivation" />
       <recent name="$PROJECT_DIR$/docs/assets/img" />
     </key>
   </component>
@@ -45,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649039417127</updated>
-      <workItem from="1649039419197" duration="17123000" />
+      <workItem from="1649039419197" duration="17325000" />
     </task>
     <task id="LOCAL-00001" summary="enno test">
       <created>1649040373370</created>
@@ -299,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649224611332</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="added majors">
+      <created>1649225003821</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1649225003821</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,7 +324,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated title" />
     <MESSAGE value="github link" />
     <MESSAGE value="fixed team links" />
     <MESSAGE value="updated masthead image" />
@@ -342,6 +348,7 @@
     <MESSAGE value="made images square" />
     <MESSAGE value="added team titles" />
     <MESSAGE value="remove final element of timeline" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove final element of timeline" />
+    <MESSAGE value="added majors" />
+    <option name="LAST_COMMIT_MESSAGE" value="added majors" />
   </component>
 </project>
