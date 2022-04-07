@@ -459,20 +459,11 @@
         <div class="row">
             <div class="col-md-12 my-auto">
                 <p class="text-muted" style="text-align: justify;">
-                    The synthetic images produced by the GP GAN are a quick and cost-effective solution to labeled datasets that
-                    are incommensurate with the great training set size required for adequate performance. To produce our images, we simply need
-                    a few images with each energy infrastructure (already in training set) and background images. These images do not have
-                    to be labeled, and thus are much more abundant and available for easy use.
-                    We can then make simple crops and bounding boxes for sampled real wind turbines within minutes.
-                    Our automatic image augmenter then randomly samples sizes, locations, and rotations to generate hundreds of
-                    source images in seconds. Our generated sources (size = m) can be matched with any and all destinations (size = n)
-                    to create as much as m times n output images that are produced by the GP GAN. Each image is blended in approximately 7 seconds, making
-                    our data pipeline an incredibly quick and resource efficient solution for data scarcity.
-                    For reference, if we generate 10 source images per destination image and download 100 destination images, we can create a dataset
-                    that includes 1000 images in less than 2 hours that includes a diversity in wind turbine location, rotation, size,
-                    and geographical background.
-                    Below are some example synthetic images created
-                    from a variety of background images.
+                    Synthetic images produced by the GP-GAN are a quick and cost-effective solution to labeled datasets that are incommensurate with the great training set size required for adequate performance.
+                    To produce our synthetic images, we begin by collecting a few satellite images of each energy infrastructure as well as background images from each domain (which do not contain any energy infrastructure).
+                    For the images with energy infrastructure present, we made a crop of the energy infrastructure and some contextual information, including the relevant shadow and some features of the terrain. These cropped images were placed on a white background, in randomized locations and rotations, and sizes randomly sampled from the distribution of sizes in source imagery. We then created a corresponding mask that identifies the placement of the energy infrastructure.
+                    Using the mask, crops of energy infrastructure, and background satellite imagery, we can blend energy infrastructure in randomized locations onto a background image from a data-scarce target domain.
+                    Each energy infrastructure mask (size = m) can be matched with any and all background satellite imagery (size = n) to create as many as m times n output images that are produced by GP-GAN. Each image is blended in approximately 7 seconds, making our data pipeline an incredibly quick and resource efficient solution for data scarcity. For reference, if we create 10 masks per background image and download 100 background images, we can create a dataset that includes 1000 images in less than 2 hours that includes variation in wind turbine location, rotation, size, and geographical background. Below are some example synthetic images created from a variety of background images.
                 </p>
             </div>
             <div class="col-md-12 my-auto">
