@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated job titles">
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/motivation/windmill.png" afterDir="false" />
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated windmill image">
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/motivation/windmill 2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649039417127</updated>
-      <workItem from="1649039419197" duration="21660000" />
+      <workItem from="1649039419197" duration="21760000" />
     </task>
     <task id="LOCAL-00001" summary="enno test">
       <created>1649040373370</created>
@@ -362,7 +362,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649368793486</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="updated windmill image">
+      <created>1649368961478</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1649368961478</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -380,7 +387,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="file name fix" />
     <MESSAGE value="added maddie image" />
     <MESSAGE value="updated acknowledgments" />
     <MESSAGE value="added linebreak" />
@@ -405,6 +411,7 @@
     <MESSAGE value="updated background image" />
     <MESSAGE value="updated majors" />
     <MESSAGE value="updated job titles" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated job titles" />
+    <MESSAGE value="updated windmill image" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated windmill image" />
   </component>
 </project>
