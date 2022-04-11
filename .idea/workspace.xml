@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated bottom github link">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated size distribution image">
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/synthetic image pipeline.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +32,7 @@
       <recent name="$PROJECT_DIR$/docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/assets/img/methodology" />
       <recent name="$PROJECT_DIR$/docs/assets/img" />
       <recent name="$PROJECT_DIR$/docs/assets/img/motivation" />
       <recent name="$PROJECT_DIR$/docs/assets/img/team" />
@@ -44,14 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649039417127</updated>
-      <workItem from="1649039419197" duration="24297000" />
-    </task>
-    <task id="LOCAL-00004" summary="fix auto refresh">
-      <created>1649041869068</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1649041869068</updated>
+      <workItem from="1649039419197" duration="24571000" />
     </task>
     <task id="LOCAL-00005" summary="fix auto refresh continued">
       <created>1649041880716</created>
@@ -389,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649607546804</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="updated size distribution image">
+      <created>1649637748034</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1649637748037</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -407,7 +409,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added dl model image" />
     <MESSAGE value="updated previous work text" />
     <MESSAGE value="fixed image link" />
     <MESSAGE value="added solar and transmission image" />
@@ -432,6 +433,7 @@
     <MESSAGE value="added saksham image" />
     <MESSAGE value="updated EDAL link" />
     <MESSAGE value="updated bottom github link" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated bottom github link" />
+    <MESSAGE value="updated size distribution image" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated size distribution image" />
   </component>
 </project>
