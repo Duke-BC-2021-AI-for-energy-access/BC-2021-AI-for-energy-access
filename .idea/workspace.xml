@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="moved yolo update">
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="moved yolo image to left">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,14 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
-      <workItem from="1649657001868" duration="3318000" />
-    </task>
-    <task id="LOCAL-00015" summary="updated masthead image">
-      <created>1649055866844</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1649055866844</updated>
+      <workItem from="1649657001868" duration="3435000" />
     </task>
     <task id="LOCAL-00016" summary="added caleb, aya, jaden images">
       <created>1649087401622</created>
@@ -391,7 +385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649695257331</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="moved yolo image to left">
+      <created>1649695359623</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1649695359623</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -410,7 +411,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added earth image" />
     <MESSAGE value="remove break" />
     <MESSAGE value="updated intro" />
     <MESSAGE value="updated pipeline" />
@@ -435,6 +435,7 @@
     <MESSAGE value="added linebreaks for key contributions" />
     <MESSAGE value="added design setup" />
     <MESSAGE value="moved yolo update" />
-    <option name="LAST_COMMIT_MESSAGE" value="moved yolo update" />
+    <MESSAGE value="moved yolo image to left" />
+    <option name="LAST_COMMIT_MESSAGE" value="moved yolo image to left" />
   </component>
 </project>
