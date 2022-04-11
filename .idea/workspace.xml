@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added design setup">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="moved yolo update">
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,14 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
-      <workItem from="1649657001868" duration="3214000" />
-    </task>
-    <task id="LOCAL-00014" summary="fixed team links">
-      <created>1649055222369</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1649055222369</updated>
+      <workItem from="1649657001868" duration="3318000" />
     </task>
     <task id="LOCAL-00015" summary="updated masthead image">
       <created>1649055866844</created>
@@ -392,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649694930938</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="moved yolo update">
+      <created>1649695257329</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1649695257331</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -411,7 +410,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated madeleine image" />
     <MESSAGE value="added earth image" />
     <MESSAGE value="remove break" />
     <MESSAGE value="updated intro" />
@@ -436,6 +434,7 @@
     <MESSAGE value="split into diff experiments" />
     <MESSAGE value="added linebreaks for key contributions" />
     <MESSAGE value="added design setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="added design setup" />
+    <MESSAGE value="moved yolo update" />
+    <option name="LAST_COMMIT_MESSAGE" value="moved yolo update" />
   </component>
 </project>
