@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="split into diff experiments">
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added linebreaks for key contributions">
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,14 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
-      <workItem from="1649657001868" duration="2646000" />
-    </task>
-    <task id="LOCAL-00012" summary="updated title">
-      <created>1649049586476</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1649049586476</updated>
+      <workItem from="1649657001868" duration="2891000" />
     </task>
     <task id="LOCAL-00013" summary="github link">
       <created>1649049627736</created>
@@ -391,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649694649016</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="added linebreaks for key contributions">
+      <created>1649694687786</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1649694687786</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -410,7 +410,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="remove final element of timeline" />
     <MESSAGE value="added majors" />
     <MESSAGE value="updated madeleine image" />
     <MESSAGE value="added earth image" />
@@ -435,6 +434,7 @@
     <MESSAGE value="added more linebreaks" />
     <MESSAGE value="moved key contributions" />
     <MESSAGE value="split into diff experiments" />
-    <option name="LAST_COMMIT_MESSAGE" value="split into diff experiments" />
+    <MESSAGE value="added linebreaks for key contributions" />
+    <option name="LAST_COMMIT_MESSAGE" value="added linebreaks for key contributions" />
   </component>
 </project>
