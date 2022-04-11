@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="moved yolo image to left">
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added linebreaks after yolo">
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/+ synthetic dataset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/baseline dataset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/lowerbound dataset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/upperbound dataset.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
@@ -22,13 +26,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/docs/assets/img/methodology" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/assets/img/methodology" />
       <recent name="$PROJECT_DIR$/docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -47,14 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
-      <workItem from="1649657001868" duration="3435000" />
-    </task>
-    <task id="LOCAL-00016" summary="added caleb, aya, jaden images">
-      <created>1649087401622</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1649087401622</updated>
+      <workItem from="1649657001868" duration="3631000" />
     </task>
     <task id="LOCAL-00017" summary="add ben image">
       <created>1649090618742</created>
@@ -392,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649695359623</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="added linebreaks after yolo">
+      <created>1649695476335</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1649695476336</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -411,7 +416,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="remove break" />
     <MESSAGE value="updated intro" />
     <MESSAGE value="updated pipeline" />
     <MESSAGE value="updated background image" />
@@ -436,6 +440,7 @@
     <MESSAGE value="added design setup" />
     <MESSAGE value="moved yolo update" />
     <MESSAGE value="moved yolo image to left" />
-    <option name="LAST_COMMIT_MESSAGE" value="moved yolo image to left" />
+    <MESSAGE value="added linebreaks after yolo" />
+    <option name="LAST_COMMIT_MESSAGE" value="added linebreaks after yolo" />
   </component>
 </project>
