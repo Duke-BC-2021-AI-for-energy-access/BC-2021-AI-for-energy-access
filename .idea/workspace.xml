@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added synthetic image pipeline image">
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/motivation/proposed solution.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/constructing dataset for different experiments.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +33,8 @@
       <recent name="$PROJECT_DIR$/docs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/assets/img/motivation" />
       <recent name="$PROJECT_DIR$/docs/assets/img/methodology" />
+      <recent name="$PROJECT_DIR$/docs/assets/img/motivation" />
       <recent name="$PROJECT_DIR$/docs/assets/img" />
       <recent name="$PROJECT_DIR$/docs/assets/img/team" />
     </key>
@@ -47,6 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
+      <workItem from="1649657001868" duration="744000" />
     </task>
     <task id="LOCAL-00006" summary="added old index html">
       <created>1649042562476</created>
@@ -407,6 +409,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fixed image link" />

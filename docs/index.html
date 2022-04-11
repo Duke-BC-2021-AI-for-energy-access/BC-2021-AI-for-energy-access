@@ -710,6 +710,22 @@
                             </div>
                         </div>
                         <br>
+                        <div class="row">
+                            <div class="col-md-6 my-auto">
+                                <img src="assets/img/methodology/constructing%20dataset%20for%20different%20experiments.png" class="img-responsive" alt="" style="width:100%">
+                                <caption class="text-muted"><i>Figure: <strong>Cross-domain</strong> experiment example using Northwest as target domain and Eastern Midwest as non-target domain.</i></caption>
+                            </div>
+                            <div class="col-md-6 my-auto">
+                                <h5 class="service-heading">Full Experimental Setup</h5>
+                                <p class="text-muted" style="text-align: left;">
+                                    Baseline Experiments: There was no augmentation of training data in the baseline experiments; the model was trained on 100 real satellite images from the source domain, and then tested on 100 real images from the target domain. In the context of these experiments, “real images” refer to satellite images that naturally contain the target object.
+                                    Additional 73 Background Experiments: For the second set of experiments, the training dataset is made up of the original 100 real source domain images in addition to 73 background satellite images from the target domain that contained no target objects. The model was tested on the same 100 real target domain images. The motivation behind this set of experiments was to evaluate the relative improvement that the background context of the target domain could bring to the performance of the model. These background images, although lacking objects of interest, are often easier to obtain and don’t require any manual labeling.
+                                    Additional 73 Real Experiments: The third set of experiments served as an “upper bound” for the other three experiments to help evaluate the relative performance gain brought by synthetic image augmentation. In these experiments, the original 100 real source domain images were augmented with 73 additional real images from the target domain. These additional real images contained wind turbines and were labeled. This experiment simulates the ideal scenario - increasing the total amount of relevant training data for the algorithm, but in a real world context, obtaining those additional 75 labeled images from the target domain may be incredibly hard and expensive.
+                                    Additional 73 Synthetic Experiments: Finally, the last set of experiments were our main focus as they included the addition of 73 of our GP-GAN synthetically generated images from the target domain to the training dataset. We expect to see significant improvement in performance with the addition of synthetic images in comparison to both the baseline and the addition of background images.
+                                </p>
+                            </div>
+                        </div>
+                        <br>
 
                         <div class="row">
                             <h5 class="service-heading">YOLOv3</h5>
