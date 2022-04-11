@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added synthetic image pipeline image">
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/constructing dataset for different experiments.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added full experimental setup">
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,14 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
-      <workItem from="1649657001868" duration="744000" />
-    </task>
-    <task id="LOCAL-00006" summary="added old index html">
-      <created>1649042562476</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1649042562476</updated>
+      <workItem from="1649657001868" duration="846000" />
     </task>
     <task id="LOCAL-00007" summary="added old assets">
       <created>1649043057416</created>
@@ -393,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649637869120</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="added full experimental setup">
+      <created>1649688225498</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1649688225501</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -412,7 +410,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fixed image link" />
     <MESSAGE value="added solar and transmission image" />
     <MESSAGE value="fixed DL image" />
     <MESSAGE value="fix image link for real" />
@@ -437,6 +434,7 @@
     <MESSAGE value="updated bottom github link" />
     <MESSAGE value="updated size distribution image" />
     <MESSAGE value="added synthetic image pipeline image" />
-    <option name="LAST_COMMIT_MESSAGE" value="added synthetic image pipeline image" />
+    <MESSAGE value="added full experimental setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="added full experimental setup" />
   </component>
 </project>
