@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added linebreaks">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added more linebreaks">
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,14 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
-      <workItem from="1649657001868" duration="1491000" />
-    </task>
-    <task id="LOCAL-00009" summary="testing other template- assets">
-      <created>1649048230508</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1649048230508</updated>
+      <workItem from="1649657001868" duration="2242000" />
     </task>
     <task id="LOCAL-00010" summary="revert to old html/css">
       <created>1649048948603</created>
@@ -392,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649688512986</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="added more linebreaks">
+      <created>1649689137459</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1649689137459</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -411,7 +410,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix image link for real" />
     <MESSAGE value="made images square" />
     <MESSAGE value="added team titles" />
     <MESSAGE value="remove final element of timeline" />
@@ -436,6 +434,7 @@
     <MESSAGE value="added full experimental setup" />
     <MESSAGE value="added key contributions" />
     <MESSAGE value="added linebreaks" />
-    <option name="LAST_COMMIT_MESSAGE" value="added linebreaks" />
+    <MESSAGE value="added more linebreaks" />
+    <option name="LAST_COMMIT_MESSAGE" value="added more linebreaks" />
   </component>
 </project>
