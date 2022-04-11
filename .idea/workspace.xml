@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added linebreaks for key contributions">
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added design setup">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,14 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
-      <workItem from="1649657001868" duration="2891000" />
-    </task>
-    <task id="LOCAL-00013" summary="github link">
-      <created>1649049627736</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1649049627736</updated>
+      <workItem from="1649657001868" duration="3214000" />
     </task>
     <task id="LOCAL-00014" summary="fixed team links">
       <created>1649055222369</created>
@@ -391,7 +385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649694687786</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="added design setup">
+      <created>1649694930938</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1649694930938</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -410,7 +411,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added majors" />
     <MESSAGE value="updated madeleine image" />
     <MESSAGE value="added earth image" />
     <MESSAGE value="remove break" />
@@ -435,6 +435,7 @@
     <MESSAGE value="moved key contributions" />
     <MESSAGE value="split into diff experiments" />
     <MESSAGE value="added linebreaks for key contributions" />
-    <option name="LAST_COMMIT_MESSAGE" value="added linebreaks for key contributions" />
+    <MESSAGE value="added design setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="added design setup" />
   </component>
 </project>
