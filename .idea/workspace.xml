@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated EDAL link">
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated bottom github link">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,14 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649039417127</updated>
-      <workItem from="1649039419197" duration="23640000" />
-    </task>
-    <task id="LOCAL-00003" summary="small fix in build">
-      <created>1649041641239</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1649041641239</updated>
+      <workItem from="1649039419197" duration="24297000" />
     </task>
     <task id="LOCAL-00004" summary="fix auto refresh">
       <created>1649041869068</created>
@@ -389,7 +382,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649607351770</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="updated bottom github link">
+      <created>1649607546804</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1649607546804</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -407,7 +407,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="timeline test previous work" />
     <MESSAGE value="added dl model image" />
     <MESSAGE value="updated previous work text" />
     <MESSAGE value="fixed image link" />
@@ -432,6 +431,7 @@
     <MESSAGE value="fixed turbine" />
     <MESSAGE value="added saksham image" />
     <MESSAGE value="updated EDAL link" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated EDAL link" />
+    <MESSAGE value="updated bottom github link" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated bottom github link" />
   </component>
 </project>
