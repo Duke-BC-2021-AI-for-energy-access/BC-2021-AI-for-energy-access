@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="fixed design setup">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="removed domain descriptions" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,14 +46,7 @@
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
       <workItem from="1649657001868" duration="3631000" />
-      <workItem from="1649701515645" duration="6420000" />
-    </task>
-    <task id="LOCAL-00041" summary="updated intro">
-      <created>1649347836012</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1649347836014</updated>
+      <workItem from="1649701515645" duration="6954000" />
     </task>
     <task id="LOCAL-00042" summary="updated pipeline">
       <created>1649348012017</created>
@@ -394,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649744735861</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="removed domain descriptions">
+      <created>1649744868800</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1649744868800</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,7 +410,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added linebreaks after yolo" />
     <MESSAGE value="updated experimental design setup" />
     <MESSAGE value="timeline test" />
     <MESSAGE value="updated future work 1" />
@@ -438,6 +434,7 @@
     <MESSAGE value="fixed image collection" />
     <MESSAGE value="centered text, fixed style" />
     <MESSAGE value="fixed design setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed design setup" />
+    <MESSAGE value="removed domain descriptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed domain descriptions" />
   </component>
 </project>
