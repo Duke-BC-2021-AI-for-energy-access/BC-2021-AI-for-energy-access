@@ -612,15 +612,9 @@
 
                                 <div class="col-md-6 my-auto">
                                     <p class="text-muted" style="text-align: justify;">
-                                        In constructing our experimental datasets, we need to figure out what ratio of real to synthetic data yields
-                                        the largest gain in performance (if any). Adding too much synthetic data could lead to overfitting to synthetic data and any irregularities within
-                                        the synthetic data or differences with regular images would be exacerbated such the object detection model may perform worse.
-                                        However, adding too little synthetic data will have a negligible effect on performance.
-                                        The 2020-2021 Bass Connections team designed an experiment in which they tested ratios of 1:0, 1:0.5, 1:0.75,
-                                        1:1, and 1:2 real to synthetic ratios. After conducting these experiments, they found that 1:0.75 yields the greatest performance
-                                        as measured by average precision. Therefore, to maintain similarity to the Bass Connections team, we design our experiments using the 1:0.75 ratio.
-                                        This ratio allows for fair comparison of our synthetic data generation with the Bass Connections team, however, in the future, we
-                                        would like to experiment with different ratios with our synthetic data generation process to find the optimal ratio.
+                                        In constructing our experimental datasets, we need to figure out what ratio of real to synthetic data yields the largest gain in performance (if any). Introducing too much synthetic data could lead to overfitting to synthetic data and any irregularities within the synthetic data or differences with regular images would be exacerbated such that the object detection model may perform worse. However, adding too little synthetic data will have a negligible effect on performance. Thus, in creating our synthetic data, we created a large pool of supplemental data for each domain combination, including 100 supplemental images with unique backgrounds and randomly sourced turbines. We then conducted an experiment by varying the mixed batch ratio used with YOLOv3. Given a batch size of 8, the mixed batch ratio determines how many of these 8 images will be from the synthetic images, and how many will be from the source real images. In experimenting with different ratios with our synthetic data generation process, we are now able to better identify how the performance boost of our synthetic imagery changes when adding more and more synthetic imagery.
+                                        In the experiment, we found that —Results—.
+                                        However, in order to not bias our results towards what works best for our technique, we used a mixed batch ratio of 1 throughout all of our comparative experiments, as this is the smallest ratio that includes synthetic images and will allow for a fair comparison of the initial benefit provided by adding synthetic images, without biasing the results as different techniques could yield better results as the ratio changes.
                                     </p>
                                 </div>
 
