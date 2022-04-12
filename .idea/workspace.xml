@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="reupload map domain image" />
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="update xml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,14 +49,7 @@
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
       <workItem from="1649657001868" duration="3631000" />
-      <workItem from="1649701515645" duration="7688000" />
-    </task>
-    <task id="LOCAL-00046" summary="updated windmill image">
-      <created>1649368961478</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1649368961478</updated>
+      <workItem from="1649701515645" duration="8029000" />
     </task>
     <task id="LOCAL-00047" summary="updated windmill image again">
       <created>1649369065157</created>
@@ -391,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649786677692</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="update xml">
+      <created>1649786945137</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1649786945138</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -410,7 +413,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added future work 3" />
     <MESSAGE value="updated few shot learning" />
     <MESSAGE value="updated object detection future work" />
     <MESSAGE value="fixed empty list item" />
@@ -435,6 +437,7 @@
     <MESSAGE value="update within and cross domain image" />
     <MESSAGE value="updated lowerbound and upperbound image" />
     <MESSAGE value="reupload map domain image" />
-    <option name="LAST_COMMIT_MESSAGE" value="reupload map domain image" />
+    <MESSAGE value="update xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="update xml" />
   </component>
 </project>
