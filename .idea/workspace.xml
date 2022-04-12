@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="update within and cross domain image">
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/methodology/lowerbound dataset.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/img/methodology/lowerbound dataset.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/img/methodology/upperbound dataset.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/img/methodology/upperbound dataset.png" afterDir="false" />
-    </list>
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="reupload map domain image" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,21 +46,7 @@
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
       <workItem from="1649657001868" duration="3631000" />
-      <workItem from="1649701515645" duration="7347000" />
-    </task>
-    <task id="LOCAL-00044" summary="updated majors">
-      <created>1649368634245</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1649368634245</updated>
-    </task>
-    <task id="LOCAL-00045" summary="updated job titles">
-      <created>1649368793486</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1649368793486</updated>
+      <workItem from="1649701515645" duration="7688000" />
     </task>
     <task id="LOCAL-00046" summary="updated windmill image">
       <created>1649368961478</created>
@@ -394,7 +377,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649786475750</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="updated lowerbound and upperbound image">
+      <created>1649786582576</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1649786582576</updated>
+    </task>
+    <task id="LOCAL-00094" summary="reupload map domain image">
+      <created>1649786677692</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1649786677692</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,8 +410,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated future work 1" />
-    <MESSAGE value="added future work 2" />
     <MESSAGE value="added future work 3" />
     <MESSAGE value="updated few shot learning" />
     <MESSAGE value="updated object detection future work" />
@@ -438,6 +433,8 @@
     <MESSAGE value="removed domain descriptions" />
     <MESSAGE value="updated synthetic and overview image" />
     <MESSAGE value="update within and cross domain image" />
-    <option name="LAST_COMMIT_MESSAGE" value="update within and cross domain image" />
+    <MESSAGE value="updated lowerbound and upperbound image" />
+    <MESSAGE value="reupload map domain image" />
+    <option name="LAST_COMMIT_MESSAGE" value="reupload map domain image" />
   </component>
 </project>
