@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added linebreaks after yolo">
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/experimental design setup (overview).png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated experimental design setup">
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,14 +48,7 @@
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
       <workItem from="1649657001868" duration="3631000" />
-      <workItem from="1649701515645" duration="302000" />
-    </task>
-    <task id="LOCAL-00017" summary="add ben image">
-      <created>1649090618742</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1649090618742</updated>
+      <workItem from="1649701515645" duration="582000" />
     </task>
     <task id="LOCAL-00018" summary="added alena, frankie information">
       <created>1649091112763</created>
@@ -395,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649695476336</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="updated experimental design setup">
+      <created>1649733871965</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1649733871965</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -414,7 +412,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated intro" />
     <MESSAGE value="updated pipeline" />
     <MESSAGE value="updated background image" />
     <MESSAGE value="updated majors" />
@@ -439,6 +436,7 @@
     <MESSAGE value="moved yolo update" />
     <MESSAGE value="moved yolo image to left" />
     <MESSAGE value="added linebreaks after yolo" />
-    <option name="LAST_COMMIT_MESSAGE" value="added linebreaks after yolo" />
+    <MESSAGE value="updated experimental design setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated experimental design setup" />
   </component>
 </project>
