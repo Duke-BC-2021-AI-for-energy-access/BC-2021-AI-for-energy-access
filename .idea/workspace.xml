@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="separated experiment descriptions">
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/map of domains with 6 images.png" afterDir="false" />
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="fixed image collection">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
@@ -50,14 +49,7 @@
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
       <workItem from="1649657001868" duration="3631000" />
-      <workItem from="1649701515645" duration="6015000" />
-    </task>
-    <task id="LOCAL-00038" summary="updated madeleine image">
-      <created>1649225205321</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1649225205321</updated>
+      <workItem from="1649701515645" duration="6124000" />
     </task>
     <task id="LOCAL-00039" summary="added earth image">
       <created>1649225376464</created>
@@ -395,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649744057091</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="fixed image collection">
+      <created>1649744469205</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1649744469205</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -414,7 +413,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added design setup" />
     <MESSAGE value="moved yolo update" />
     <MESSAGE value="moved yolo image to left" />
     <MESSAGE value="added linebreaks after yolo" />
@@ -439,6 +437,7 @@
     <MESSAGE value="experiment with other class" />
     <MESSAGE value="updated methods intro" />
     <MESSAGE value="separated experiment descriptions" />
-    <option name="LAST_COMMIT_MESSAGE" value="separated experiment descriptions" />
+    <MESSAGE value="fixed image collection" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed image collection" />
   </component>
 </project>
