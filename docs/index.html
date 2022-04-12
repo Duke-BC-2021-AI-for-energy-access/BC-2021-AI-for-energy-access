@@ -346,14 +346,10 @@
                 <div class="row">
                     <div class="col-md-6 my-auto">
                         <p class="text-muted" style="text-align: justify;">
-                            Below is a description of the experiments we conducted to evaluate if adding synthetic images to an object detection
-                            algorithm enhances its performance across geographic domains. After gathering real images and generating synthetic images,
-                            we can construct two datasets. The first dataset includes only real imagery, while the second dataset includes both real
-                            and synthetic images. We can train an object detection model on the first dataset, test it, and then repeat the process with
-                            the second dataset, comparing the results. If the model performs better when trained on a dataset with synthetic imagery, we
-                            can conclude that the synthetic imagery aids the model's performance. Given the Bass Connections previous work creating a synthetic
-                            dataset using CityEngine, we can also compare our synthetic dataset’s performance against theirs, to determine which synthetic dataset
-                            best improves energy infrastructure detection.
+                            To the right is a description of the experiments we conducted to evaluate if adding synthetic images to an object detection algorithm enhances its performance across geographic domains. After gathering real images and generating synthetic images, we can construct four datasets. The first dataset includes only real imagery, the second dataset includes both real and our synthetic images. We can train an object detection model on the first dataset, test it, and then repeat the process with the second dataset, comparing the results. If the model performs better when trained on a dataset with synthetic imagery, we can conclude that the synthetic imagery aids the model's performance.
+                            <br>
+                            In addition to these comparisons, we perform additional experiments comparing the quality of our synthetic data as supplemental data to the baseline by evaluating the performance of a third dataset with supplemental unlabeled target imagery and a fourth dataset with labeled target imagery. This helps us identify the relative quality of our synthetic data compared to true target data.
+                            Finally, we can compare our technique to state-of-the-art domain adaptation techniques, to determine the usefulness of our technique compared to other solutions to the domain adaptation problem
                         </p>
                     </div>
                     <div class="col-md-6 my-auto">
