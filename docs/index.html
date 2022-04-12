@@ -795,7 +795,7 @@
                             <div class="col-md-6 my-auto">
                                 <h5 class="service-heading">Lowerbound Experiment</h5>
                                 <p class="text-muted" style="text-align: left;">
-                                    Additional 73 Background Experiments: For the second set of experiments, the training dataset is made up of the original 100 real source domain images in addition to 73 background satellite images from the target domain that contained no target objects. The model was tested on the same 100 real target domain images. The motivation behind this set of experiments was to evaluate the relative improvement that the background context of the target domain could bring to the performance of the model. These background images, although lacking objects of interest, are often easier to obtain and don’t require any manual labeling.
+                                    For the second set of experiments, the training dataset is made up of the original 100 real source domain images in addition to 100 background satellite images from the target domain that contained no target objects. The model was tested on the same 100 real target domain images. The motivation behind this set of experiments was to evaluate the relative improvement that the background context of the target domain could bring to the performance of the model. These background images, although lacking objects of interest, are often easier to obtain and don’t require any manual labeling.
                                 </p>
                             </div>
                             <div class="col-md-6 my-auto">
@@ -808,7 +808,7 @@
                             <div class="col-md-6 my-auto">
                                 <h5 class="service-heading">Upperbound Experiment</h5>
                                 <p class="text-muted" style="text-align: left;">
-                                    Additional 73 Real Experiments: The third set of experiments served as an “upper bound” for the other three experiments to help evaluate the relative performance gain brought by synthetic image augmentation. In these experiments, the original 100 real source domain images were augmented with 73 additional real images from the target domain. These additional real images contained wind turbines and were labeled. This experiment simulates the ideal scenario - increasing the total amount of relevant training data for the algorithm, but in a real world context, obtaining those additional 75 labeled images from the target domain may be incredibly hard and expensive.
+                                    The third set of experiments served as an “upper bound” for the other three experiments to help evaluate the relative performance gain brought by synthetic image augmentation. In these experiments, the original 100 real source domain images were augmented with 100 additional real images from the target domain. These additional real images contained wind turbines and were labeled. This experiment simulates the ideal scenario - increasing the total amount of relevant training data for the algorithm, but in a real world context, obtaining those additional 75 labeled images from the target domain may be incredibly hard and expensive.
                                 </p>
                             </div>
                             <div class="col-md-6 my-auto">
@@ -821,7 +821,7 @@
                             <div class="col-md-6 my-auto">
                                 <h5 class="service-heading">Synthetic Experiment</h5>
                                 <p class="text-muted" style="text-align: left;">
-                                    Additional 73 Synthetic Experiments: Finally, the last set of experiments were our main focus as they included the addition of 73 of our GP-GAN synthetically generated images from the target domain to the training dataset. We expect to see significant improvement in performance with the addition of synthetic images in comparison to both the baseline and the addition of background images.
+                                    Finally, the last set of experiments were our main focus as they included the addition of 100 of our GP-GAN synthetically generated images from the target domain to the training dataset. We expect to see significant improvement in performance with the addition of synthetic images in comparison to both the baseline and the addition of background images.
                                 </p>
                             </div>
                             <div class="col-md-6 my-auto">

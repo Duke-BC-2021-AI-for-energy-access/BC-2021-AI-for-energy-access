@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="italicized caption">
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added four fold description">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
@@ -49,14 +49,7 @@
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
       <workItem from="1649657001868" duration="3631000" />
-      <workItem from="1649701515645" duration="3196000" />
-    </task>
-    <task id="LOCAL-00029" summary="updated previous work text">
-      <created>1649193935337</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1649193935337</updated>
+      <workItem from="1649701515645" duration="3259000" />
     </task>
     <task id="LOCAL-00030" summary="fixed image link">
       <created>1649194005173</created>
@@ -394,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649737809918</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="added four fold description">
+      <created>1649738000064</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1649738000064</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,7 +413,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated size distribution image" />
     <MESSAGE value="added synthetic image pipeline image" />
     <MESSAGE value="added full experimental setup" />
     <MESSAGE value="added key contributions" />
@@ -438,6 +437,7 @@
     <MESSAGE value="small update to other infrastructure" />
     <MESSAGE value="added non domain adaptation" />
     <MESSAGE value="italicized caption" />
-    <option name="LAST_COMMIT_MESSAGE" value="italicized caption" />
+    <MESSAGE value="added four fold description" />
+    <option name="LAST_COMMIT_MESSAGE" value="added four fold description" />
   </component>
 </project>
