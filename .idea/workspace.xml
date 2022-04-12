@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated few shot learning">
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated object detection future work">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,14 +49,7 @@
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
       <workItem from="1649657001868" duration="3631000" />
-      <workItem from="1649701515645" duration="2050000" />
-    </task>
-    <task id="LOCAL-00023" summary="updated acknowledgments">
-      <created>1649093097184</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1649093097184</updated>
+      <workItem from="1649701515645" duration="2155000" />
     </task>
     <task id="LOCAL-00024" summary="added linebreak">
       <created>1649093218289</created>
@@ -393,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649736456161</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="updated object detection future work">
+      <created>1649736535635</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1649736535635</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -412,7 +413,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated windmill image again" />
     <MESSAGE value="fix style" />
     <MESSAGE value="fixed turbine" />
     <MESSAGE value="added saksham image" />
@@ -437,6 +437,7 @@
     <MESSAGE value="added future work 2" />
     <MESSAGE value="added future work 3" />
     <MESSAGE value="updated few shot learning" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated few shot learning" />
+    <MESSAGE value="updated object detection future work" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated object detection future work" />
   </component>
 </project>
