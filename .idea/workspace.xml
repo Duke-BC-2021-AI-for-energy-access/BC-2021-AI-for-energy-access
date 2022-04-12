@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added linebreak">
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="reorganized methodology intro">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
@@ -49,14 +49,7 @@
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
       <workItem from="1649657001868" duration="3631000" />
-      <workItem from="1649701515645" duration="8511000" />
-    </task>
-    <task id="LOCAL-00049" summary="fixed turbine">
-      <created>1649369218999</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1649369218999</updated>
+      <workItem from="1649701515645" duration="8998000" />
     </task>
     <task id="LOCAL-00050" summary="added saksham image">
       <created>1649530504173</created>
@@ -394,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649787616188</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="reorganized methodology intro">
+      <created>1649787770876</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1649787770877</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,7 +413,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fixed empty list item" />
     <MESSAGE value="added europe image" />
     <MESSAGE value="small update to other infrastructure" />
     <MESSAGE value="added non domain adaptation" />
@@ -438,6 +437,7 @@
     <MESSAGE value="update xml" />
     <MESSAGE value="updated captions" />
     <MESSAGE value="added linebreak" />
-    <option name="LAST_COMMIT_MESSAGE" value="added linebreak" />
+    <MESSAGE value="reorganized methodology intro" />
+    <option name="LAST_COMMIT_MESSAGE" value="reorganized methodology intro" />
   </component>
 </project>
