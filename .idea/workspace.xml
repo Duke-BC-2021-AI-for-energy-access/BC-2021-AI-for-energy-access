@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added four fold description">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="changed 73 to 100">
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,14 +48,7 @@
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
       <workItem from="1649657001868" duration="3631000" />
-      <workItem from="1649701515645" duration="3259000" />
-    </task>
-    <task id="LOCAL-00030" summary="fixed image link">
-      <created>1649194005173</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1649194005173</updated>
+      <workItem from="1649701515645" duration="3422000" />
     </task>
     <task id="LOCAL-00031" summary="added solar and transmission image">
       <created>1649194242684</created>
@@ -394,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649738000064</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="changed 73 to 100">
+      <created>1649738060244</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1649738060244</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,7 +412,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added synthetic image pipeline image" />
     <MESSAGE value="added full experimental setup" />
     <MESSAGE value="added key contributions" />
     <MESSAGE value="added linebreaks" />
@@ -438,6 +436,7 @@
     <MESSAGE value="added non domain adaptation" />
     <MESSAGE value="italicized caption" />
     <MESSAGE value="added four fold description" />
-    <option name="LAST_COMMIT_MESSAGE" value="added four fold description" />
+    <MESSAGE value="changed 73 to 100" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed 73 to 100" />
   </component>
 </project>
