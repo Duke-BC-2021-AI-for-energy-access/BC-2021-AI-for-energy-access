@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added linebreaks after yolo">
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/+ synthetic dataset.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/baseline dataset.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/lowerbound dataset.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/upperbound dataset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/experimental design setup (overview).png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
@@ -53,6 +50,7 @@
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
       <workItem from="1649657001868" duration="3631000" />
+      <workItem from="1649701515645" duration="302000" />
     </task>
     <task id="LOCAL-00017" summary="add ben image">
       <created>1649090618742</created>
