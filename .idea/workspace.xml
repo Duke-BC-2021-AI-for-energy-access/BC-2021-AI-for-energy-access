@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added future work 3">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated few shot learning">
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,14 +48,7 @@
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
       <workItem from="1649657001868" duration="3631000" />
-      <workItem from="1649701515645" duration="1979000" />
-    </task>
-    <task id="LOCAL-00022" summary="added maddie image">
-      <created>1649092794633</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1649092794633</updated>
+      <workItem from="1649701515645" duration="2050000" />
     </task>
     <task id="LOCAL-00023" summary="updated acknowledgments">
       <created>1649093097184</created>
@@ -394,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649736261253</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="updated few shot learning">
+      <created>1649736456161</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1649736456161</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,7 +412,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated windmill image" />
     <MESSAGE value="updated windmill image again" />
     <MESSAGE value="fix style" />
     <MESSAGE value="fixed turbine" />
@@ -438,6 +436,7 @@
     <MESSAGE value="updated future work 1" />
     <MESSAGE value="added future work 2" />
     <MESSAGE value="added future work 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="added future work 3" />
+    <MESSAGE value="updated few shot learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated few shot learning" />
   </component>
 </project>
