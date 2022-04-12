@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated future work 1">
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added future work 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,14 +49,7 @@
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
       <workItem from="1649657001868" duration="3631000" />
-      <workItem from="1649701515645" duration="1269000" />
-    </task>
-    <task id="LOCAL-00020" summary="updated team page">
-      <created>1649092148106</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1649092148107</updated>
+      <workItem from="1649701515645" duration="1787000" />
     </task>
     <task id="LOCAL-00021" summary="file name fix">
       <created>1649092261551</created>
@@ -393,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649735480144</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="added future work 2">
+      <created>1649735667491</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1649735667491</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -412,7 +413,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated majors" />
     <MESSAGE value="updated job titles" />
     <MESSAGE value="updated windmill image" />
     <MESSAGE value="updated windmill image again" />
@@ -437,6 +437,7 @@
     <MESSAGE value="updated experimental design setup" />
     <MESSAGE value="timeline test" />
     <MESSAGE value="updated future work 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated future work 1" />
+    <MESSAGE value="added future work 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="added future work 2" />
   </component>
 </project>
