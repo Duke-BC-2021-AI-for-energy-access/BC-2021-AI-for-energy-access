@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="experiment with other class">
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated methods intro">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
@@ -49,14 +49,7 @@
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
       <workItem from="1649657001868" duration="3631000" />
-      <workItem from="1649701515645" duration="5450000" />
-    </task>
-    <task id="LOCAL-00036" summary="remove final element of timeline">
-      <created>1649224611332</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1649224611332</updated>
+      <workItem from="1649701515645" duration="5610000" />
     </task>
     <task id="LOCAL-00037" summary="added majors">
       <created>1649225003821</created>
@@ -394,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649743714602</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="updated methods intro">
+      <created>1649743893139</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1649743893139</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,7 +413,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="split into diff experiments" />
     <MESSAGE value="added linebreaks for key contributions" />
     <MESSAGE value="added design setup" />
     <MESSAGE value="moved yolo update" />
@@ -438,6 +437,7 @@
     <MESSAGE value="updated methods- location, rotation consideration" />
     <MESSAGE value="updated background" />
     <MESSAGE value="experiment with other class" />
-    <option name="LAST_COMMIT_MESSAGE" value="experiment with other class" />
+    <MESSAGE value="updated methods intro" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated methods intro" />
   </component>
 </project>
