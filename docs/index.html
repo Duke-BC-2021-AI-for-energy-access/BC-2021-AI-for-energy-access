@@ -306,17 +306,6 @@
                                 in new, diverse locations.</p></div>
                         </div>
                     </li>
-                    <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/motivation/windmill%202.png" alt="..." /></div>
-                        <div class="timeline-panel">
-                            <div class="timeline-heading">
-                                <h4>Now</h4>
-                                <h4 class="subheading">Our Work</h4>
-                            </div>
-                            <div class="timeline-body"><p class="text-muted">In our project, we build upon this progress and try to improve the 2020 Bass Connections team and 2021 Data Plus team's ability to enhance energy infrastructure detection
-                                in new, diverse locations.</p></div>
-                        </div>
-                    </li>
                 </ul>
             </div>
 
@@ -334,7 +323,7 @@
                 <div class="col-md-12 my-auto">
 
                     <p class="text-muted" style="text-align: justify;">
-                        We propose a new method for unsupervised domain adaptation that is comparable to state-of-the-art domain adaptation techniques and methods.
+                        <i>We propose a new method for unsupervised domain adaptation that is comparable to state-of-the-art domain adaptation techniques and methods.</i>
                         We created a large, diverse, publicly-available dataset for wind turbine and transmission tower object detection. Our dataset encompasses 5 large geographic regions of the United States, and is the first of its kind for both wind turbines and transmission towers.
                         We found that adding unlabeled background imagery was beneficial to the object detection performance of neural networks in the context of domain adaptation with remote sensing data.
                     </p>
@@ -520,17 +509,10 @@
                 </i></caption>
             </div>
             <div class="col-md-6 my-auto">
-                <h5 class="service-heading">Location, Rotation, and Size of the Synthetic Turbines</h5>
+                <h5 class="service-heading">Custom Image Augmentation</h5>
                 <p class="text-muted" style="text-align: justify;">
-                    The first step of our image generation pipeline is our image augmenter, which leads us to consider
-                    the location, size, and rotation of our synthetic turbines.
-                    The previous Bass Connections team modeled the size distribution of the CityEngine turbines after
-                    the size distribution of the real turbines.
-                    To ensure a controlled experiment, we sampled their location and sizing information to match the real distributions and allow for fair comparison
-                    with the CityEngine dataset.
-                    While no rotation data was previously stored, we randomized the rotation of every windmill to allow the object detection model
-                    to become familiar with wind turbines from various angles and views.
-
+                    The first step of our image generation pipeline is our custom image augmenter, which performs copy-paste augmentation of wind turbines onto a white canvas, which will be blended with a background via the GP GAN to create our synthetic imagery. In performing this augmentation, we must consider the location, size, rotation, and density of our synthetic turbines. A key benefit of our model is the ability to customize these distributions to provide maximal benefit.
+                    We first investigated the distributions of the real training data to explore how to make the most realistic synthetic data. In creating our augmented images, , we then sampled real turbines from the source domain training data, applied a random location and rotation to the turbine, and placed them onto the canvas. We placed 3 turbines per augmented image, as 3 represents the 90th percentile of the number of turbines in our real training data, and allows us to create dense synthetic data to provide more target objects for the model to learn. In randomizing location and rotation and creating denser synthetic images, we allow the object detection model to become familiar with many wind turbines from various contexts, angles, and views.
                 </p>
             </div>
         </div>
