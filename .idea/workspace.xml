@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated methods- location, rotation consideration">
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated background">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,14 +49,7 @@
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
       <workItem from="1649657001868" duration="3631000" />
-      <workItem from="1649701515645" duration="4539000" />
-    </task>
-    <task id="LOCAL-00034" summary="made images square">
-      <created>1649210264504</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1649210264505</updated>
+      <workItem from="1649701515645" duration="5277000" />
     </task>
     <task id="LOCAL-00035" summary="added team titles">
       <created>1649224164557</created>
@@ -393,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649742809263</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="updated background">
+      <created>1649742946931</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1649742946931</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -412,7 +413,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added more linebreaks" />
     <MESSAGE value="moved key contributions" />
     <MESSAGE value="split into diff experiments" />
     <MESSAGE value="added linebreaks for key contributions" />
@@ -437,6 +437,7 @@
     <MESSAGE value="add linebreak to names" />
     <MESSAGE value="undo be a part of our work test" />
     <MESSAGE value="updated methods- location, rotation consideration" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated methods- location, rotation consideration" />
+    <MESSAGE value="updated background" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated background" />
   </component>
 </project>
