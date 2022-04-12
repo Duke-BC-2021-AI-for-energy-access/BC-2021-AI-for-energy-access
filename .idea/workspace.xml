@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added future work 2">
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added future work 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
@@ -49,14 +49,7 @@
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
       <workItem from="1649657001868" duration="3631000" />
-      <workItem from="1649701515645" duration="1787000" />
-    </task>
-    <task id="LOCAL-00021" summary="file name fix">
-      <created>1649092261551</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1649092261551</updated>
+      <workItem from="1649701515645" duration="1979000" />
     </task>
     <task id="LOCAL-00022" summary="added maddie image">
       <created>1649092794633</created>
@@ -394,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649735667491</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="added future work 3">
+      <created>1649736261253</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1649736261253</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,7 +413,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated job titles" />
     <MESSAGE value="updated windmill image" />
     <MESSAGE value="updated windmill image again" />
     <MESSAGE value="fix style" />
@@ -438,6 +437,7 @@
     <MESSAGE value="timeline test" />
     <MESSAGE value="updated future work 1" />
     <MESSAGE value="added future work 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="added future work 2" />
+    <MESSAGE value="added future work 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="added future work 3" />
   </component>
 </project>

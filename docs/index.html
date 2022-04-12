@@ -1079,6 +1079,24 @@
                                 We would like to investigate how the extra performance of our technique changes by altering various conditions of our experiments to see how it changes our results. For example, we could see how our method works for different dataset sizes and mixed batch ratios, in multi-domain training settings, using data from different geographic settings (especially outside the USA), and with different image resolutions. This will help further demonstrate the benefit of our technique and in what settings it may be helpful.
                             </li>
                             <br>
+                            <div class="row">
+                                <li class= "col-md-6 my-auto">
+                                    Expanding upon the previous point, we would like to investigate few shot learning, where we use <strong>small amounts of real images and large amounts of synthetic data</strong> to adapt our object detection
+                                    model to any region that we choose. In building a classifier of energy infrastructure, there may be infrastructures that are rare and thus hard to find in
+                                    real data. However, with few shot learning, we could generate several synthetic images containing the rare infrastructures in different settings and orientations,
+                                    improving energy infrastructure detection while limiting the time and cost of finding labeled data for rare infrastructures. In diversifying the infrastructure,
+                                    location, size, rotation, and amount of infrastructure in our images, the model could generalize well to any potential differences between domains.
+                                </li>
+                                <br>
+                                <div class= "col-md-6 my-auto figure-img">
+                                    <img src="assets/img/future_work/Few Shot Learning.png" class="img-responsive" alt="" style="width:100%">
+                                    <br>
+                                    <caption><i>Figure: Guo, Y., Codella, N., Karlinsky, L., Smith, J., Simunic, T., & Feris, R. (2019). A New Benchmark for Evaluation of Cross-Domain Few-Shot Learning. ArXiv, abs/1912.07200. </i></caption>
+                                </div>
+                            </div>
+                            <li>
+                            </li>
+                            <br>
                             <li>
                                 In seeking to automate the mapping of energy infrastructure in a region, we must not merely focus on the domain adaptation task, but also the intricacies of object detection. Computer vision is a rapidly growing field, with various new state-of-the-art techniques arising for maximizing performance. Thus, we should explore using some of these advanced techniques to understand how well we can maximize our performance, by looking into foundation models, attention, feature pyramid networks, and a more recent object detection model such as YOLOv4 (10% higher average precision than YOLOv3).. In addition to the boost in object detection in a given region, this is important for seeing how well our technique tracks in terms of improving performance in these model settings.
                             </li>
@@ -1114,21 +1132,6 @@
                                 </div>
                             </div>
                             <br>
-                            <div class="row">
-                                <li class= "col-md-6 my-auto">
-                                    Investigate few shot learning, where we use <strong>small amounts of real images and large amounts of synthetic data</strong> to adapt our object detection
-                                    model to any region that we choose. In building a classifier of energy infrastructure, there may be infrastructures that are rare and thus hard to find in
-                                    real data. However, with few shot learning, we could generate several synthetic images containing the rare infrastructures in different settings and orientations,
-                                    improving energy infrastructure detection while limiting the time and cost of finding labeled data for rare infrastructures. In diversifying the infrastructure,
-                                    location, size, rotation, and amount of infrastructure in our images, the model could generalize well to any potential differences between domains.
-                                </li>
-                                <br>
-                                <div class= "col-md-6 my-auto figure-img">
-                                    <img src="assets/img/future_work/Few Shot Learning.png" class="img-responsive" alt="" style="width:100%">
-                                    <br>
-                                    <caption><i>Figure: Guo, Y., Codella, N., Karlinsky, L., Smith, J., Simunic, T., & Feris, R. (2019). A New Benchmark for Evaluation of Cross-Domain Few-Shot Learning. ArXiv, abs/1912.07200. </i></caption>
-                                </div>
-                            </div>
                         </ol>
                     </div>
                 </div>
