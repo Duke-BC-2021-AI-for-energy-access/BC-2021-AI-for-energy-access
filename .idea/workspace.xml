@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated synthetic and overview image">
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/dataset cross domain process.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/dataset within domain process.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="update within and cross domain image">
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/methodology/lowerbound dataset.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/img/methodology/lowerbound dataset.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/methodology/upperbound dataset.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/img/methodology/upperbound dataset.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +49,7 @@
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
       <workItem from="1649657001868" duration="3631000" />
-      <workItem from="1649701515645" duration="7238000" />
-    </task>
-    <task id="LOCAL-00043" summary="updated background image">
-      <created>1649350018952</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1649350018953</updated>
+      <workItem from="1649701515645" duration="7347000" />
     </task>
     <task id="LOCAL-00044" summary="updated majors">
       <created>1649368634245</created>
@@ -395,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649786372245</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="update within and cross domain image">
+      <created>1649786475750</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1649786475750</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -414,7 +413,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="timeline test" />
     <MESSAGE value="updated future work 1" />
     <MESSAGE value="added future work 2" />
     <MESSAGE value="added future work 3" />
@@ -439,6 +437,7 @@
     <MESSAGE value="fixed design setup" />
     <MESSAGE value="removed domain descriptions" />
     <MESSAGE value="updated synthetic and overview image" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated synthetic and overview image" />
+    <MESSAGE value="update within and cross domain image" />
+    <option name="LAST_COMMIT_MESSAGE" value="update within and cross domain image" />
   </component>
 </project>
