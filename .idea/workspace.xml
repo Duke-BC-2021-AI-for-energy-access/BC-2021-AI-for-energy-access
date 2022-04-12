@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated experimental design setup">
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="timeline test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,14 +49,7 @@
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
       <workItem from="1649657001868" duration="3631000" />
-      <workItem from="1649701515645" duration="582000" />
-    </task>
-    <task id="LOCAL-00018" summary="added alena, frankie information">
-      <created>1649091112763</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1649091112763</updated>
+      <workItem from="1649701515645" duration="1097000" />
     </task>
     <task id="LOCAL-00019" summary="animation test">
       <created>1649091723994</created>
@@ -393,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649733871965</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="timeline test">
+      <created>1649734158398</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1649734158398</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -412,7 +413,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated pipeline" />
     <MESSAGE value="updated background image" />
     <MESSAGE value="updated majors" />
     <MESSAGE value="updated job titles" />
@@ -437,6 +437,7 @@
     <MESSAGE value="moved yolo image to left" />
     <MESSAGE value="added linebreaks after yolo" />
     <MESSAGE value="updated experimental design setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated experimental design setup" />
+    <MESSAGE value="timeline test" />
+    <option name="LAST_COMMIT_MESSAGE" value="timeline test" />
   </component>
 </project>
