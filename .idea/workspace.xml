@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added non domain adaptation">
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="italicized caption">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
@@ -49,14 +49,7 @@
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
       <workItem from="1649657001868" duration="3631000" />
-      <workItem from="1649701515645" duration="3022000" />
-    </task>
-    <task id="LOCAL-00028" summary="added dl model image">
-      <created>1649193672308</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1649193672308</updated>
+      <workItem from="1649701515645" duration="3196000" />
     </task>
     <task id="LOCAL-00029" summary="updated previous work text">
       <created>1649193935337</created>
@@ -394,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649737340166</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="italicized caption">
+      <created>1649737809918</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1649737809918</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,7 +413,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated bottom github link" />
     <MESSAGE value="updated size distribution image" />
     <MESSAGE value="added synthetic image pipeline image" />
     <MESSAGE value="added full experimental setup" />
@@ -438,6 +437,7 @@
     <MESSAGE value="added europe image" />
     <MESSAGE value="small update to other infrastructure" />
     <MESSAGE value="added non domain adaptation" />
-    <option name="LAST_COMMIT_MESSAGE" value="added non domain adaptation" />
+    <MESSAGE value="italicized caption" />
+    <option name="LAST_COMMIT_MESSAGE" value="italicized caption" />
   </component>
 </project>
