@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated captions">
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="added linebreak">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
@@ -49,14 +49,7 @@
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
       <workItem from="1649657001868" duration="3631000" />
-      <workItem from="1649701515645" duration="8354000" />
-    </task>
-    <task id="LOCAL-00048" summary="fix style">
-      <created>1649369135262</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1649369135262</updated>
+      <workItem from="1649701515645" duration="8511000" />
     </task>
     <task id="LOCAL-00049" summary="fixed turbine">
       <created>1649369218999</created>
@@ -394,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649787270875</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="added linebreak">
+      <created>1649787616188</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1649787616188</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,7 +413,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated object detection future work" />
     <MESSAGE value="fixed empty list item" />
     <MESSAGE value="added europe image" />
     <MESSAGE value="small update to other infrastructure" />
@@ -438,6 +437,7 @@
     <MESSAGE value="reupload map domain image" />
     <MESSAGE value="update xml" />
     <MESSAGE value="updated captions" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated captions" />
+    <MESSAGE value="added linebreak" />
+    <option name="LAST_COMMIT_MESSAGE" value="added linebreak" />
   </component>
 </project>
