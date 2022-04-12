@@ -681,17 +681,6 @@
 
                             </div>
 
-
-                            <br>
-                            <h5 class="service-heading">Design Setup</h5>
-                            <p class="text-muted" style="text-align: justify;">
-                                Having sampled our data and found the optimal real to synthetic ratio, our final datasets for each region is: </p>
-                            <ul>
-                                <li class="text-muted" style="text-align: justify;"><b>Baseline: </b> Train on 100 Real Non-Target Images, Test on 100 Target Domain Images</li>
-                                <li class="text-muted" style="text-align: justify;"><b>Modified: </b> Train on 100 Real Non-Target Images + 75 Syn Target Images, Test on 100 Target Domain Images </li>
-                            </ul>
-                            </br>
-
                         </div>
 
 
@@ -737,7 +726,9 @@
                             Having sampled our data and found the optimal real to synthetic ratio, our final datasets for each region is: </p>
                         <ul>
                             <li class="text-muted" style="text-align: justify;"><b>Baseline: </b> Train on 100 Real Non-Target Images, Test on 100 Target Domain Images</li>
-                            <li class="text-muted" style="text-align: justify;"><b>Modified: </b> Train on 100 Real Non-Target Images + 75 Syn Target Images, Test on 100 Target Domain Images </li>
+                            <li class="text-muted" style="text-align: justify;"><b>Modified: </b> Train on 100 Real Non-Target Images + 100 Syn Target Images, Test on 100 Target Domain Images </li>
+                            <li class="text-muted" style="text-align: justify;"><b>Lower bound: </b> Train on 100 Real Non-Target Images + 100 Real Unlabeled (Background) Target Images, Test on 100 Target Domain Images </li>
+                            <li class="text-muted" style="text-align: justify;"><b>Upper bound: </b> Train on 100 Real Non-Target Images + 100 Real Labeled Target Images, Test on 100 Target Domain Images </li>
                         </ul>
 
                         <br>
