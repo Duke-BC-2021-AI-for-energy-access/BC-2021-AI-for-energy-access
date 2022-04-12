@@ -806,9 +806,8 @@
                     <div class = "col-md-6">
                         <h3>Performance Metrics</h3>
                         <p class="text-muted" style="text-align: justify;">
-                            To understand our results, it's critical that we first understand the metrics that we have chosen to measure
-                            performance. The primary metrics we will use is Average Precision, which combines the classification metrics
-                            of precision and recall. We will explain the implication of these metrics starting with the images on the left.</p>
+                            Before evaluating our results, it's critical that we first understand the metrics that we have chosen to measure performance. The primary metrics we will use is Average Precision, which combines the classification metrics of precision and recall. We will explain the implication of these metrics starting with the images on the left.
+                        </p>
                         <ul>
                             <li class="text-muted" style="text-align: justify;"><b>Precision: </b> Out of the areas that the model classified as a wind turbine,
                                 what fraction of these were actually wind turbines. (Positive Predictive Value)</li>
@@ -819,11 +818,8 @@
                     <div class="row">
                         <div class = "col-md-6 my-auto">
                             <p class="text-muted" style="text-align: justify;">
-                                Now we plot the values of precision and recall of the model's predicted outputs  on a graph, which is known as a precision-recall
-                                curve. On the curves to the right, it is evident that that as precision increases, recall decreases, and vice versa. There is hence a tradeoff between
-                                precision and recall. However, we would like to have high values for both precision and recall, which means we would like the area
-                                under the precision-recall curve to be as high as possible. A metric that quantifies this area is Average Precision (AP), and thus
-                                summarizes the precision-recall curve and rewards models with a high precision and recall. </p>
+                                Now we plot the values of precision and recall of the model's predicted outputs on a graph, which is known as a precision-recall curve. On the curves to the right, it is evident that that as precision increases, recall decreases, and vice versa. Hence, there is a tradeoff between precision and recall. However, we would like to have high values for both precision and recall, which means we would like the area under the precision-recall curve to be as high as possible. A metric that quantifies this area is Average Precision (AP), which summarizes the precision-recall curve and rewards models with a high precision and recall.
+                            </p>
                             <p class="text-muted" style="text-align: justify;">
                                 In the machine learning space, small absolute increases in AP denote a significant improvement in model performance.
                             </p>
@@ -850,10 +846,11 @@
                             <div class = "col-md-6">
                                 <h3>Reducing Variance</h3>
                                 <p class="text-muted" style="text-align: justify;">
-                                    Due to variability and stochasticity in the object detection model’s training process, there will be slight variations
-                                    between the results of each run, as shown on the left image. Each experiment is therefore repeated 4 times to account
-                                    for this randomness and improve the accuracy of the result. The average AP value is calculated and used to compare results
-                                    of our baseline model, model with added CityEngine images, and model with added GP GAN images.</p>
+                                    Due to variability and stochasticity in the object detection model’s training process,
+                                    there will be slight variations between the results of each run, as shown on the left image.
+                                    Each experiment is therefore repeated 4 times to account for this randomness and improve the accuracy
+                                    of the result. The average AP value is calculated and used to compare results of our experiments.
+                                </p>
                             </div>
                             <br>
                             <hr class="divider light my-4" />

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="reorganized methodology intro">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated GP GAN description">
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,14 +48,7 @@
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
       <workItem from="1649657001868" duration="3631000" />
-      <workItem from="1649701515645" duration="8998000" />
-    </task>
-    <task id="LOCAL-00050" summary="added saksham image">
-      <created>1649530504173</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1649530504221</updated>
+      <workItem from="1649701515645" duration="9260000" />
     </task>
     <task id="LOCAL-00051" summary="updated EDAL link">
       <created>1649607351765</created>
@@ -394,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649787770877</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="updated GP GAN description">
+      <created>1649788292768</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1649788292768</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,7 +412,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added europe image" />
     <MESSAGE value="small update to other infrastructure" />
     <MESSAGE value="added non domain adaptation" />
     <MESSAGE value="italicized caption" />
@@ -438,6 +436,7 @@
     <MESSAGE value="updated captions" />
     <MESSAGE value="added linebreak" />
     <MESSAGE value="reorganized methodology intro" />
-    <option name="LAST_COMMIT_MESSAGE" value="reorganized methodology intro" />
+    <MESSAGE value="updated GP GAN description" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated GP GAN description" />
   </component>
 </project>
