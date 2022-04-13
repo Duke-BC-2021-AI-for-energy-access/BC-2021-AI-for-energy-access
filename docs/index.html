@@ -447,15 +447,15 @@
         </div>-->
         <br><br>
         <div class="row">
-            <div class="col-md-12 my-auto">
+            <div class="col-md-6 my-auto">
                 <p class="text-muted" style="text-align: justify;">
                     Synthetic images produced by the GP-GAN are a quick and cost-effective solution to labeled datasets that are incommensurate with the great training set size required for adequate performance. To produce our synthetic images, we automatically crop all energy infrastructure in the source training data and perform copy-paste augmentation of these images on a white background, in randomized locations, sizes, and rotations. In performing the crop, we ensured the preservation of key features including the shadow around the target object, which can be a helpful tool within the receptive field of an object detection model for identifying the infrastructure of interest. The mask with the energy infrastructure is then blended onto a background image (does not contain any energy infrastructure) from the data-scarce target domain using the GP-GAN model.
                     Each image is blended in approximately 7 seconds, making our data pipeline an incredibly quick and resource efficient solution for data scarcity. For reference, we created a dataset of approximately 1600 images in approximately 3 hours holding almost 200 images for 9 different combinations of source and target domains. Each synthetic image featured a unique combination of background image, source turbines, and randomized location, rotation, and size, creating a diverse set of supplemental imagery.
                     Below are some example synthetic images created from a variety of background images.
                 </p>
             </div>
-            <div class="col-md-12 my-auto">
-                <img src="assets/img/methodology/grid.jpg" class="img-responsive" alt="" style="width:80%;"><br>
+            <div class="col-md-6 my-auto">
+                <img src="assets/img/methodology/sample%20synthetic%20output.png" class="img-responsive" alt="" style="width:80%;"><br>
                 <caption class="text-muted"><i>Figure: Our synthetic images contain a variety of background images, source turbines, and turbine orientations.</i></caption>
             </div>
         </div>

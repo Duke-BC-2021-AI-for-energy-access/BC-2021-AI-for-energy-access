@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated results section">
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated optimal ratio section">
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/sample synthetic output.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,14 +50,7 @@
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
       <workItem from="1649657001868" duration="3631000" />
-      <workItem from="1649701515645" duration="9701000" />
-    </task>
-    <task id="LOCAL-00052" summary="updated bottom github link">
-      <created>1649607546804</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1649607546804</updated>
+      <workItem from="1649701515645" duration="10033000" />
     </task>
     <task id="LOCAL-00053" summary="updated size distribution image">
       <created>1649637748034</created>
@@ -393,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649788632502</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="updated optimal ratio section">
+      <created>1649789116869</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1649789116869</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -412,7 +414,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added non domain adaptation" />
     <MESSAGE value="italicized caption" />
     <MESSAGE value="added four fold description" />
     <MESSAGE value="changed 73 to 100" />
@@ -437,6 +438,7 @@
     <MESSAGE value="reorganized methodology intro" />
     <MESSAGE value="updated GP GAN description" />
     <MESSAGE value="updated results section" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated results section" />
+    <MESSAGE value="updated optimal ratio section" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated optimal ratio section" />
   </component>
 </project>
