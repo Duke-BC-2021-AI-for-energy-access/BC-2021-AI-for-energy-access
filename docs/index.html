@@ -170,7 +170,7 @@
             <br>
 
             <div class="row">
-                <div class="col-md-12">
+                <div class="col-md-12 my-auto">
                     <h4>Problem 1: Lack of labeled data for rare objects</h4>
                     <p class="text-muted" style="text-align: justify;">
                         While the potential of object detection seems promising, it presents two main challenges. The first
@@ -190,14 +190,14 @@
               </div>
               <div class="row">-->
 
-                <div class="col-md-12">
+                <div class="col-md-12 my-auto">
                     <h4>Problem 2: Domain adaptation</h4>
                     <p class="text-muted" style="text-align: justify;">
                         The second challenge we face is that in training an object detection model to detect energy infrastructure in certain regions, our training set and testing set must come from different locations and thus may have differences in geographical background and other environmental factors. Without being properly trained for the test setting, object detection models are not great at generalizing across dissimilar images yet. What this means is that if we train our model on a collection of images from one region, featuring images with similar background geographies, the model will then be able to perform fairly well on other images with those same physical background characteristics. However, if we then try to input images from a different region with different geographic characteristics, the model's performance becomes significantly worse, since it hasn’t been trained with images containing those specific background features.
                     </p>
                 </div>
 
-                <div class="col-md-12">
+                <div class="col-md-12 my-auto">
                     <img src="assets/img/motivation/domain_adaptation_updated.png" class="img-responsive" alt=""style="width:90%; height:90%"><br>
                     <caption><i>Figure: Example of the domain adaptation challenge, for a model trained on images with geographical features of the images in the
                         source domain (forest & grasslands) that underperforms when tested on images with different background in the target domain (desert)
@@ -219,7 +219,7 @@
                         Our proposed solution to address these two problems is to introduce synthetic images into our training dataset. These synthetic images include a labeled target object implanted into the background of the target domain, so that even if we don’t have real labeled images from the target domain, we can create close imitations.. The synthetic images supplement the original real satellite imagery dataset to create a larger dataset to train our object detection model, diversifying the geographical background and orientation of energy infrastructure that the model sees. We generate these synthetic images by cropping the energy infrastructure out of satellite images and using a Generative Adversarial Network to blend them into a real image without any energy infrastructure from one of the target geographic domains.
                     </p>
                 </div>
-                <div class="col-md-12">
+                <div class="col-md-12 my-auto">
                     <img src="assets/img/motivation/proposed%20solution.png" class="img-responsive" alt=""style="width:90%; height:90%"><br>
                     <caption><i>Figure: Synthetic imagery generation process overview</i></caption>
                 </div>
