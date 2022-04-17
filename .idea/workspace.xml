@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="more mobile fixes">
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="commented out abstract for now">
+      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/3 domains.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
@@ -49,14 +50,7 @@
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
       <workItem from="1649657001868" duration="3631000" />
-      <workItem from="1649701515645" duration="11825000" />
-    </task>
-    <task id="LOCAL-00057" summary="added linebreaks">
-      <created>1649688512986</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1649688512986</updated>
+      <workItem from="1649701515645" duration="12425000" />
     </task>
     <task id="LOCAL-00058" summary="added more linebreaks">
       <created>1649689137459</created>
@@ -394,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649870728757</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="commented out abstract for now">
+      <created>1649873606240</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1649873606241</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,7 +414,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="undo be a part of our work test" />
     <MESSAGE value="updated methods- location, rotation consideration" />
     <MESSAGE value="updated background" />
     <MESSAGE value="experiment with other class" />
@@ -438,6 +438,7 @@
     <MESSAGE value="increased size of grid" />
     <MESSAGE value="added my-auto for mobile viewing" />
     <MESSAGE value="more mobile fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="more mobile fixes" />
+    <MESSAGE value="commented out abstract for now" />
+    <option name="LAST_COMMIT_MESSAGE" value="commented out abstract for now" />
   </component>
 </project>
