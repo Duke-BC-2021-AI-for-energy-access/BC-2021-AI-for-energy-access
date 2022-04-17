@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="commented out abstract for now">
-      <change afterPath="$PROJECT_DIR$/docs/assets/img/methodology/3 domains.png" afterDir="false" />
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated pairwise cycle">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/methodology/dataset cross domain process.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/img/methodology/dataset cross domain process.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/img/methodology/dataset within domain process.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/img/methodology/dataset within domain process.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +50,7 @@
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
       <workItem from="1649657001868" duration="3631000" />
-      <workItem from="1649701515645" duration="12425000" />
-    </task>
-    <task id="LOCAL-00058" summary="added more linebreaks">
-      <created>1649689137459</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1649689137459</updated>
+      <workItem from="1649701515645" duration="13438000" />
     </task>
     <task id="LOCAL-00059" summary="moved key contributions">
       <created>1649694242217</created>
@@ -395,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649873606241</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="updated pairwise cycle">
+      <created>1650224055700</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1650224055701</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -414,7 +414,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="updated methods- location, rotation consideration" />
     <MESSAGE value="updated background" />
     <MESSAGE value="experiment with other class" />
     <MESSAGE value="updated methods intro" />
@@ -439,6 +438,7 @@
     <MESSAGE value="added my-auto for mobile viewing" />
     <MESSAGE value="more mobile fixes" />
     <MESSAGE value="commented out abstract for now" />
-    <option name="LAST_COMMIT_MESSAGE" value="commented out abstract for now" />
+    <MESSAGE value="updated pairwise cycle" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated pairwise cycle" />
   </component>
 </project>
