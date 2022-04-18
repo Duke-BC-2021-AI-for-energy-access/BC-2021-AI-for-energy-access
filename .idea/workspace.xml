@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated within and cross domain experiment images">
+    <list default="true" id="92e5cc40-3c07-4eee-8992-ec9119bebfa9" name="Default Changelist" comment="updated caption">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,14 +49,7 @@
       <updated>1649039417127</updated>
       <workItem from="1649039419197" duration="24734000" />
       <workItem from="1649657001868" duration="3631000" />
-      <workItem from="1649701515645" duration="13564000" />
-    </task>
-    <task id="LOCAL-00060" summary="split into diff experiments">
-      <created>1649694649016</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1649694649016</updated>
+      <workItem from="1649701515645" duration="14031000" />
     </task>
     <task id="LOCAL-00061" summary="added linebreaks for key contributions">
       <created>1649694687786</created>
@@ -393,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650227444739</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="updated caption">
+      <created>1650227570224</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1650227570225</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -412,7 +413,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="experiment with other class" />
     <MESSAGE value="updated methods intro" />
     <MESSAGE value="separated experiment descriptions" />
     <MESSAGE value="fixed image collection" />
@@ -437,6 +437,7 @@
     <MESSAGE value="commented out abstract for now" />
     <MESSAGE value="updated pairwise cycle" />
     <MESSAGE value="updated within and cross domain experiment images" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated within and cross domain experiment images" />
+    <MESSAGE value="updated caption" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated caption" />
   </component>
 </project>
